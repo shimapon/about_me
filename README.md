@@ -16,9 +16,15 @@
 
 - [【研究発表】インタラクション2020 :インタラクティブ発表賞 2日目](https://www.interaction-ipsj.org/2020/award/)，[「ワイヤによる衝撃力の提示を用いた木こり体験VR」 ⇒ 予稿はこちらから](https://www.interaction-ipsj.org/proceedings/2020/data/pdf/2A-01.pdf)
 
+### 参加したインターンシップ  
+・Yahoo!ショッピング ユーザー体験向上を目指してチームで企画＆開発  
+https://about.yahoo.co.jp/hr/internship/1973/  
+
+
 ### 主に使用するプログラミング言語
 
-- JavaScript(React.js, jQuery, Node.js) :アプリ開発
+- JavaScript(React.js, jQuery, Node.js) :アプリ開発(フロントエンド)
+- Ruby on rails :アプリ開発(サーバーサイド)  
 - Python :研究，競技プログラミング
 
 ### 1周以上終えた教本
