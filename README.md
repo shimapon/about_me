@@ -29,7 +29,7 @@ https://about.yahoo.co.jp/hr/internship/1973/
 
 ### 1周以上終えた教本
 
-- [東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析~](https://amazon.jp/dp/4839965250/)
+- [東京大学のデータサイエンティスト育成講座 Pythonで手を動かして学ぶデ―タ分析](https://amazon.jp/dp/4839965250/)
 
 - [Unityの教科書 Unity 2019完全対応版　2D＆3Dスマートフォンゲーム入門講座](https://amazon.jp/dp/B07TNNTTYV/)
 
